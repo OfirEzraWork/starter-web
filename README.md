@@ -15,3 +15,7 @@ the purpose is to learn!
 idk
 
 ## How To Contribute
+
+### Copyright
+
+no
