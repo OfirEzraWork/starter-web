@@ -16,6 +16,8 @@ idk
 
 ## How To Contribute
 
+please fork this repository and then issue a Pull requests for review.
+
 ### Copyright
 
 no
