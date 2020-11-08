@@ -1,7 +1,7 @@
 # Starter Web Project
 
 Some text. Additional text!
-additionallll!!!
+additionallll!!! and someone else
 
 ## Introduction
 
